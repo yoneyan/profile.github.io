@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yoneyan.me/ja/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://yoneyan.me/ja/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/ja/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://yoneyan.me/ja/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/ja/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://yoneyan.me/ja/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/ja/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://yoneyan.me/ja/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/ja/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://yoneyan.me/ja/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/ja/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://yoneyan.me/ja/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/ja/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://yoneyan.me/ja/tags/"
+                />
+  </url>
+  
+</urlset>
