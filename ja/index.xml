@@ -20,23 +20,24 @@
     </item>
     
     <item>
-      <title>Contact｀</title>
-      <link>https://yoneyan.me/ja/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yoneyan.me/ja/contact/</guid>
-      <description>お問い合わせ方法 お問い合わせ方法として、以下の2つの方法があります。 * メールアドレス * フォーム
-メールアドレス contact@yoneyan.net
-フォーム このフォームはGoogle Formを使用しています。</description>
-    </item>
-    
-    <item>
       <title>Projetos</title>
       <link>https://yoneyan.me/ja/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yoneyan.me/ja/projects/</guid>
       <description>作成中です！</description>
+    </item>
+    
+    <item>
+      <title>お問い合わせ</title>
+      <link>https://yoneyan.me/ja/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoneyan.me/ja/contact/</guid>
+      <description>方法 お問い合わせ方法として、以下の2つの方法があります。 * メールアドレス * フォーム
+メールアドレス contact@yoneyan.net
+フォーム このフォームはGoogle Formを使用しています。
+Contact Form</description>
     </item>
     
   </channel>
