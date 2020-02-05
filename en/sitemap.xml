@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yoneyan.me/posts/theme-demo/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/posts/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://yoneyan.me/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/"
+                />
+  </url>
+  
+  <url>
     <loc>https://yoneyan.me/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,20 +66,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://yoneyan.me/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://yoneyan.me/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://yoneyan.me/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yoneyan.me/"
                 />
   </url>
   
