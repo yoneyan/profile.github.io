@@ -3,101 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yoneyan.me/ja/about/</loc>
+    <loc>https://yoneyan.me/posts/theme-demo/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/posts/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yoneyan.me/about/"
+                href="https://yoneyan.me/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://yoneyan.me/ja/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://yoneyan.me/ja/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yoneyan.me/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://yoneyan.me/ja/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://yoneyan.me/ja/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://yoneyan.me/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoneyan.me/en/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://yoneyan.me/ja/"
+                href="https://yoneyan.me/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://yoneyan.me/ja/projects/</loc>
+    <loc>https://yoneyan.me/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yoneyan.me/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yoneyan.me/projects/"
+                href="https://yoneyan.me/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://yoneyan.me/ja/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://yoneyan.me/ja/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://yoneyan.me/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://yoneyan.me/ja/series/"
-                />
   </url>
   
   <url>
-    <loc>https://yoneyan.me/ja/tags/</loc>
+    <loc>https://yoneyan.me/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://yoneyan.me/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
                 href="https://yoneyan.me/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://yoneyan.me/ja/tags/"
-                />
   </url>
   
   <url>
-    <loc>https://yoneyan.me/ja/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://yoneyan.me/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://yoneyan.me/ja/contact/"
-                />
+    <loc>https://yoneyan.me/contact/</loc>
   </url>
   
 </urlset>
