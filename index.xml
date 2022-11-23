@@ -1,61 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Profile</title>
-    <link>https://yoneyan.me/</link>
-    <description>Recent content on Profile</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://yoneyan.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://yoneyan.me/posts/theme-demo/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yoneyan.me/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Profile</title><link>https://yoneyan.me/</link><description>Recent content on Profile</description><generator>Hugo -- gohugo.io</generator><language>ja-jp</language><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://yoneyan.me/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://yoneyan.me/posts/theme-demo/</link><pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate><guid>https://yoneyan.me/posts/theme-demo/</guid><description>Style Demo Link to heading h1 Heading Link to heading h2 Heading Link to heading h3 Heading Link to heading h4 Heading Link to heading h5 Heading Link to heading h6 Heading Link to heading This is bold text
 This is bold text
 This is italic text
 This is italic text
 Deleted text
 This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://yoneyan.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yoneyan.me/about/</guid>
-      <description> 現在所属している運営組織は以下のものとなっております
-所属運営グループ  HomeNOC Operator&amp;rsquo;s Group(運営) doornoc運営  過去運営担当  KNTW（関西トラブルシューティングコンテスト）2,3,4回のBB担当 ICTSC2020 ICTSC2019  制作物  大好きな曲をPSTN網から流す方法 ポケベルのようなものを作る  インターン経験 2019年  富士通クラウドテクノロジーズ　＜長期＞クラウドエンジニア体験コース (9&amp;frasl;2-9&amp;frasl;17) サイバーエージェント CA Tech Challenge Intel NUCで始めるおうちKubernetesクラスタで自宅サーバ入門 (9&amp;frasl;19-9&amp;frasl;20)  </description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>https://yoneyan.me/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yoneyan.me/projects/</guid>
-      <description>作成中です！</description>
-    </item>
-    
-    <item>
-      <title>お問い合わせ</title>
-      <link>https://yoneyan.me/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yoneyan.me/contact/</guid>
-      <description>メールアドレス contact@yoneyan.net
-フォーム このフォームはGoogle Formを使用しています。
-Contact Form</description>
-    </item>
-    
-  </channel>
-</rss>
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</description></item><item><title>About Me</title><link>https://yoneyan.me/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yoneyan.me/about/</guid><description>現在所属している運営組織は以下のものとなっております
+所属運営グループ Link to heading HomeNOC Operator&amp;rsquo;s Group(運営) doornoc運営 過去運営担当 Link to heading KNTW（関西トラブルシューティングコンテスト）2,3,4回のBB担当 ICTSC2020 ICTSC2019 制作物 Link to heading 大好きな曲をPSTN網から流す方法 ポケベルのようなものを作る インターン経験 Link to heading 2019年 Link to heading 富士通クラウドテクノロジーズ　＜長期＞クラウドエンジニア体験コース (9/2-9/17) サイバーエージェント CA Tech Challenge Intel NUCで始めるおうちKubernetesクラスタで自宅サーバ入門 (9/19-9/20)</description></item><item><title>Projetos</title><link>https://yoneyan.me/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yoneyan.me/projects/</guid><description>作成中です！</description></item><item><title>お問い合わせ</title><link>https://yoneyan.me/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yoneyan.me/contact/</guid><description>メールアドレス Link to heading contact@yoneyan.net
+フォーム Link to heading このフォームはGoogle Formを使用しています。
+Contact Form</description></item></channel></rss>
